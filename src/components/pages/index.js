@@ -1,0 +1,6 @@
+import CharacterPage from './characterPage';
+import BookPage from './bookPage';
+import HousePage from './housePage';
+import BookItem from './bookItem';
+import HouseItem from './houseItem';
+export {CharacterPage, BookPage, HousePage, BookItem, HouseItem};
